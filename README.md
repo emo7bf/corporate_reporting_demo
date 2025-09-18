@@ -1,5 +1,5 @@
 # Responsible Sourcing – Update Reviewer (Streamlit)  
-_A quick README for your hackathon repo_
+_A quick README for hackathon UI demo repo_
 
 This app is a **review tool for ESG copy updates**. It lets a human (or an LLM “teammate”) line up the **original 2023** text against the **updated 2024** text and review each requested change with standards context, tiny diffs, and export.
 
