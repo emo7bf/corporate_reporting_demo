@@ -1,5 +1,15 @@
 Concept Overview – AI-Drafted Global Impact Report
 
+Health, Safety and Well-being
+
+KLA’s outstanding performance in environmental and occupational health and safety is rooted in our values, with high-performing teams working together to solve challenges and drive ongoing improvement. Our priority is the safety and well-being of our employees, whether in our business offices and manufacturing facilities or at customer sites where our field services teams install, maintain and update KLA products. We deliver specialized training based on each employee’s job-specific risks and adhere to global health and safety best practices. This proactive, risk-based approach allows us to maintain high safety and health standards, stay ahead of regulatory changes, and enhance coordination and consistency across our operations.
+
+Our environmental, health and safety team (EHS) is led by a dedicated global EHS director, who reports to our vice president for Global Workplace Services and Operations, Real Estate, EHS and Security. In 2023, we updated and made public our Environmental, Health & Safety Commitment Policy.
+
+In 2023, we continued to make progress expanding our ISO 14001 and ISO 45001 programs across our main production and R&D facilities. As of year-end 2023, our sites in Singapore; Newport, Wales; Milpitas, California; and Migdal Ha’emek, Israel, are certified to ISO 14001, the internationally recognized standard for environmental management systems (EMS). Our Wales site is also certified to ISO 45001, which specifies requirements for occupational health and safety (OH&S) management systems.
+
+Throughout the year, we continued to enhance our health and safety policies and practices globally, implementing multiple new systems to standardize best practices and establish a single source of truth in areas such as environmental data collection, operational controls, audit tracking, incident management, compliance monitoring and corrective actions. To better and more efficiently manage our chemical products, we’re expanding the use of software to create safety data sheets, which define the properties, hazards and required safety procedures for chemical products that are formulated and used with our tools. Our compliance software also monitors regulations and alerts us to changes, allowing us to update our compliance posture as necessary, and on a timely basis.
+
 Problem:
 
 Annual sustainability / impact reports are time-consuming, fragmented, and reactive.
