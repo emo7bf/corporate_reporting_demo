@@ -1,4 +1,36 @@
-# Responsible Sourcing – Update Reviewer (Streamlit)  
+Concept Overview – AI-Drafted Global Impact Report
+
+Problem:
+
+Annual sustainability / impact reports are time-consuming, fragmented, and reactive.
+
+Input comes from multiple departments (EHS, governance, supply chain, etc.) plus evolving ESG frameworks and peer benchmarks.
+
+Drafting requires manual alignment across all sources → slows progress and risks inconsistencies.
+
+Our Solution:
+
+Build an AI-powered drafting system that generates the first draft of the Global Impact Report.
+
+Sources leveraged:
+
+📘 Last year’s final report (baseline)
+📝 Department & director updates (EHS, governance, diversity, etc.)
+🌍 ESG rater/ranker frameworks & metrics (ISS, CDP, RBA, etc.)
+🏭 Peer company publications (benchmarking + best practices)
+
+Key Innovation:
+AI automates text comparison, change tracking, and alignment across inputs.
+Produces a cohesive, standards-ready draft that integrates corporate voice, peer positioning, and rating agency criteria.
+Cuts drafting time, increases consistency, and improves ESG score alignment.
+
+Impact:
+🚀 Speeds up the annual reporting cycle.
+📊 Ensures alignment with top ESG raters/rankers.
+🌱 Positions company as a leader in transparent, forward-looking reporting.
+
+
+# Responsible Sourcing Demo – Update Reviewer (Streamlit)  
 _A quick README for hackathon UI demo repo_
 
 This app is a **review tool for ESG copy updates**. It lets a human (or an LLM “teammate”) line up the **original 2023** text against the **updated 2024** text and review each requested change with standards context, tiny diffs, and export.
