@@ -1,3 +1,11 @@
+Golden Update — Responsible Sourcing
+
+"Note we transitioned all direct suppliers to the RBA facility-level SAQ this year. Add that response rates improved, and some indirect suppliers also completed the process. Capture supplier expectations around human rights and responsible sourcing of minerals."
+
+👉 Follow-up question: Are we clearly stating suppliers must review and accept our Standards of Business Conduct and Human Rights Standards, or is that implied?
+
+
+
 "On the health and safety side, we expanded our training library a lot — we’ve got dozens of new web-based trainings that cover things like ergonomics, laser safety, and hazardous materials
 
 Golden Update — Human Rights
