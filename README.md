@@ -1,3 +1,5 @@
+"On the health and safety side, we expanded our training library a lot — we’ve got dozens of new web-based trainings that cover things like ergonomics, laser safety, and hazardous materials
+
 Golden Update — Human Rights
 
 "Note we ran the RBA SAQ again, reinforced our Global Human Rights Standards, and did some trafficking prevention training for key staff. Add that suppliers can raise issues through the hotline."
