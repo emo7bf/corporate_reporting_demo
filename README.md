@@ -1,3 +1,21 @@
+Golden Update — Human Rights
+
+"Note we ran the RBA SAQ again, reinforced our Global Human Rights Standards, and did some trafficking prevention training for key staff. Add that suppliers can raise issues through the hotline."
+
+👉 Follow-up question: Is the hotline disclosure public or only internal?
+
+Golden Update — Health, Safety and Well-Being
+
+"Capture that most big sites are aligned with ISO 45001, with Wales fully certified. Mention expanded safety trainings (ergonomics, lasers, hazardous materials). Add we offer flexible leave policy."
+
+👉 Follow-up questions:
+
+Are all sites certified yet, or only aligned?
+
+Do we specify parental leave, childcare, or elder care in the disclosure?
+
+
+
 These golden updates should be written in a colloquial, casual style, like a division director sending a quick note to a junior ESG staffer.
 
 The updates should sound a little incomplete — they describe what the company did, but may leave out a critical keyword or phrase that an ESG rater like ISS would be looking for.
