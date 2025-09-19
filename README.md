@@ -1,3 +1,16 @@
+These golden updates should be written in a colloquial, casual style, like a division director sending a quick note to a junior ESG staffer.
+
+The updates should sound a little incomplete — they describe what the company did, but may leave out a critical keyword or phrase that an ESG rater like ISS would be looking for.
+
+That way, your RAG pipeline can retrieve and suggest the optimal wording (e.g., adding “publicly” before “reaffirm our commitment”).
+
+The goal isn’t to make a perfect 2023 → 2024 rewrite. Instead, it’s to create plausible, slightly flawed updates that the system can “fix” or “expand” into the ideal language.
+
+Each update should also prompt a follow-up question like: “Is the company publicly disclosing this commitment?” so the system can push the user to clarify or strengthen it.
+
+
+------------------------------------------------------------
+
 Concept Overview – AI-Drafted Global Impact Report
 
 Human Rights
